@@ -1,0 +1,8 @@
+c:\users\gilgamesh\documents\visual studio 2012\Projects\AkshaysIMAPClient\AkshaysIMAPClient\bin\Debug\AkshaysIMAPClient.exe.config
+c:\users\gilgamesh\documents\visual studio 2012\Projects\AkshaysIMAPClient\AkshaysIMAPClient\bin\Debug\AkshaysIMAPClient.exe
+c:\users\gilgamesh\documents\visual studio 2012\Projects\AkshaysIMAPClient\AkshaysIMAPClient\bin\Debug\AkshaysIMAPClient.pdb
+c:\users\gilgamesh\documents\visual studio 2012\Projects\AkshaysIMAPClient\AkshaysIMAPClient\obj\Debug\AkshaysIMAPClient.csprojResolveAssemblyReference.cache
+c:\users\gilgamesh\documents\visual studio 2012\Projects\AkshaysIMAPClient\AkshaysIMAPClient\obj\Debug\AkshaysIMAPClient.Properties.Resources.resources
+c:\users\gilgamesh\documents\visual studio 2012\Projects\AkshaysIMAPClient\AkshaysIMAPClient\obj\Debug\AkshaysIMAPClient.csproj.GenerateResource.Cache
+c:\users\gilgamesh\documents\visual studio 2012\Projects\AkshaysIMAPClient\AkshaysIMAPClient\obj\Debug\AkshaysIMAPClient.exe
+c:\users\gilgamesh\documents\visual studio 2012\Projects\AkshaysIMAPClient\AkshaysIMAPClient\obj\Debug\AkshaysIMAPClient.pdb
